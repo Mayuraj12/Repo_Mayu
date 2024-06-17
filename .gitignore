@@ -28,6 +28,18 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
 
 /public/assets
 
