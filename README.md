@@ -13,9 +13,7 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization
-
-* How to run the test suite
+* Database initializ
 
 * Services (job queues, cache servers, search engines, etc.)
 
@@ -23,3 +21,5 @@ Things you may want to cover:
 
 * ...
 # Repo_Mayu
+![gitversion](https://github.com/Mayuraj12/Repo_Mayu/assets/172379776/5ea3ff25-a875-4df3-a760-cc192028503f)
+
